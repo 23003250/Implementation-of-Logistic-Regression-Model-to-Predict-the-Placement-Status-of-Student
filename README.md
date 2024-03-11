@@ -22,7 +22,7 @@ RegisterNumber: 212223240087
 */
 
 import pandas as pd
-data=pd.read_csv("Placement_Data.csv")
+data=pd.read_csv("C:/Users/admin/Downloads/Midhun/Placement_Data.csv")
 data.head()
 
 data1=data.copy()
