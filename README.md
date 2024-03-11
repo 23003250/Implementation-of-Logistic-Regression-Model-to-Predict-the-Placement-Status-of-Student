@@ -73,12 +73,23 @@ classification_report1 = classification_report(y_test,y_pred)
 print(classification_report1)
 
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
-
-
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
+![11](https://github.com/23003250/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139331462/99c5e42c-e37b-4729-b177-1eb035096776)
+![12](https://github.com/23003250/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139331462/f3422c1f-8aed-47f4-af06-4af0b4cdfe92)
+![13](https://github.com/23003250/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139331462/4b012cec-3cb0-488c-8ece-95953ce94c52)
+![14](https://github.com/23003250/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139331462/2418b531-794b-4710-9547-974328e86725)
+![15](https://github.com/23003250/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139331462/5f5ee347-465a-429d-9f95-1811be46f288)
+![16](https://github.com/23003250/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139331462/c0487ce5-46a0-47fa-ac9f-d540b780a93a)
+![17](https://github.com/23003250/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139331462/594200e1-7b2f-4380-9575-d00827d75896)
+![18](https://github.com/23003250/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139331462/7d28a49d-1b5a-4f67-8adf-6a7bb5c71c72)
+![19](https://github.com/23003250/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139331462/fee40242-4269-4b2b-8d05-c6690b05ccdc)
+![20](https://github.com/23003250/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139331462/f863daec-deef-4480-8730-b7d9220fceea)
+![21](https://github.com/23003250/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139331462/6edfe502-2ed9-406d-b1e0-806a84fd5122)
+![22](https://github.com/23003250/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139331462/f39c2775-e274-491e-b2ec-dc112a28474b)
+
+
 
 
 ## Result:
