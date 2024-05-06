@@ -20,7 +20,8 @@ Program to implement the the Logistic Regression Model to Predict the Placement 
 Developed by: MIDHUN S
 RegisterNumber: 212223240087
 */
-
+```
+```
 import pandas as pd
 data=pd.read_csv("C:/Users/admin/Downloads/Midhun/Placement_Data.csv")
 data.head()
@@ -79,6 +80,9 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![11](https://github.com/23003250/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139331462/99c5e42c-e37b-4729-b177-1eb035096776)
 ![12](https://github.com/23003250/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139331462/f3422c1f-8aed-47f4-af06-4af0b4cdfe92)
 ![13](https://github.com/23003250/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139331462/4b012cec-3cb0-488c-8ece-95953ce94c52)
+
+
+
 ![14](https://github.com/23003250/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139331462/2418b531-794b-4710-9547-974328e86725)
 ![15](https://github.com/23003250/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139331462/5f5ee347-465a-429d-9f95-1811be46f288)
 ![16](https://github.com/23003250/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139331462/c0487ce5-46a0-47fa-ac9f-d540b780a93a)
